@@ -1,0 +1,597 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: i18next-conv\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+"POT-Creation-Date: 2018-06-22T16:05:42.917Z\n"
+"PO-Revision-Date: 2018-06-22T16:05:42.918Z\n"
+"Language: en\n"
+
+#: common##cancel
+msgid "Cancel"
+msgstr "Cancel"
+
+#: common##close
+msgid "Close"
+msgstr "Close"
+
+#: common##comingSoon
+msgid "Coming Soon"
+msgstr "Coming Soon"
+
+#: common##count##remaining
+msgid "Remaining"
+msgstr "Remaining"
+
+#: common##count##unlimited
+msgid "unlimited"
+msgstr "unlimited"
+
+#: common##count##used
+msgid "Used"
+msgstr "Used"
+
+#: common##country
+msgid "Country"
+msgstr "Country"
+
+#: common##create
+msgid "Create"
+msgstr "Create"
+
+#: common##delete
+msgid "Delete"
+msgstr "Delete"
+
+#: common##duplicate
+msgid "Duplicate"
+msgstr "Duplicate"
+
+#: common##edit
+msgid "Edit"
+msgstr "Edit"
+
+#: common##email
+msgid "Email address"
+msgstr "Email address"
+
+#: common##filters##active
+msgid "Active filters"
+msgstr "Active filters"
+
+#: common##filters##add
+msgid "Add a filter"
+msgstr "Add a filter"
+
+#: common##filters##apply
+msgid "Apply filters"
+msgstr "Apply filters"
+
+#: common##filters##equal
+msgid "is equal to "
+msgstr "is equal to "
+
+#: common##filters##filters
+msgid "Filters"
+msgstr "Filters"
+
+#: common##filters##include
+msgid "includes "
+msgstr "includes "
+
+#: common##filters##notEqual
+msgid "is not equal to "
+msgstr "is not equal to "
+
+#: common##filters##value
+msgid "Value"
+msgstr "Value"
+
+#: common##firstName
+msgid "First Name"
+msgstr "First Name"
+
+#: common##language
+msgid "Language"
+msgstr "Language"
+
+#: common##lastName
+msgid "Last Name"
+msgstr "Last Name"
+
+#: common##next
+msgid "Next"
+msgstr "Next"
+
+#: common##noMatch
+msgid "Nothing match your choosing"
+msgstr "Nothing match your choosing"
+
+#: common##ok
+msgid "OK"
+msgstr "OK"
+
+#: common##phone
+msgid "Phone number"
+msgstr "Phone number"
+
+#: common##previous
+msgid "Previous"
+msgstr "Previous"
+
+#: common##quotas##insufficient
+msgid "Insufficient quota"
+msgstr "Insufficient quota"
+
+#: common##roles
+msgid "Roles"
+msgstr "Roles"
+
+#: common##save
+msgid "Save "
+msgstr "Save "
+
+#: common##timeFilter##all
+msgid "Total"
+msgstr "Total"
+
+#: common##timeFilter##day
+msgid "Day"
+msgstr "Day"
+
+#: common##timeFilter##month
+msgid "Month"
+msgstr "Month"
+
+#: common##timeFilter##week
+msgid "Week"
+msgstr "Week"
+
+#: common##timeFilter##year
+msgid "Year"
+msgstr "Year"
+
+#: common##update
+msgid "Update"
+msgstr "Update"
+
+#: common##use
+msgid "Use"
+msgstr "Use"
+
+#: common##validate
+msgid "Validate"
+msgstr "Validate"
+
+#: common##weekday##monday
+msgid "Monday"
+msgstr "Monday"
+
+#: common##weekday##tuesday
+msgid "Tuesday"
+msgstr "Tuesday"
+
+#: common##weekday##wednesday
+msgid "Wednesday"
+msgstr "Wednesday"
+
+#: common##weekday##thursday
+msgid "Thursday"
+msgstr "Thursday"
+
+#: common##weekday##friday
+msgid "Friday"
+msgstr "Friday"
+
+#: common##weekday##saturday
+msgid "Saturday"
+msgstr "Saturday"
+
+#: common##weekday##sunday
+msgid "Sunday"
+msgstr "Sunday"
+
+#: common##workspace
+msgid "Divisions"
+msgstr "Divisions"
+
+#: common##zoomIn
+msgid "Zoom in"
+msgstr "Zoom in"
+
+#: common##zoomOut
+msgid " Zoom out"
+msgstr " Zoom out"
+
+#: profile##department
+msgid "Area"
+msgstr "Area"
+
+#: profile##edit
+msgid "Edit profile"
+msgstr "Edit profile"
+
+#: profile##editPhoto
+msgid "Edit photo"
+msgstr "Edit photo"
+
+#: profile##edition##photo##help
+msgid "Position and size photo"
+msgstr "Position and size photo"
+
+#: profile##edition##photo##title
+msgid "Profile picture edition"
+msgstr "Profile picture edition"
+
+#: profile##edition##photo##upload
+msgid "Upload photo"
+msgstr "Upload photo"
+
+#: profile##password##confirmMessage
+msgid "Your new password must be confirmed correctly."
+msgstr "Your new password must be confirmed correctly."
+
+#: profile##password##confirmPassword
+msgid "Verify password"
+msgstr "Verify password"
+
+#: profile##password##currentPassword
+msgid "Current password"
+msgstr "Current password"
+
+#: profile##password##newPassword
+msgid "New password"
+msgstr "New password"
+
+#: profile##password##popup##message
+msgid "New password has been saved"
+msgstr "New password has been saved"
+
+#: profile##password##title
+msgid "Password edition"
+msgstr "Password edition"
+
+#: connexion##company
+msgid "Company name"
+msgstr "Company name"
+
+#: connexion##login
+msgid "Log In"
+msgstr "Log In"
+
+#: connexion##password
+msgid "Password"
+msgstr "Password"
+
+#: connexion##pro
+msgid "Pro"
+msgstr "Pro"
+
+#: connexion##public
+msgid "Public"
+msgstr "Public"
+
+#: connexion##rememberme
+msgid "Remember me"
+msgstr "Remember me"
+
+#: dashboard##useBleams
+msgid "bleams usage"
+msgstr "bleams usage"
+
+#: dashboard##nbScans
+msgid "Number of scans"
+msgstr "Number of scans"
+
+#: dashboard##useThings
+msgid "Assets usage"
+msgstr "Assets usage"
+
+#: dashboard##workspace##lineScans
+msgid "Assets scan evolution"
+msgstr "Assets scan evolution"
+
+#: dashboard##workspace##lineScansLegend
+msgid "scans"
+msgstr "scans"
+
+#: dashboard##workspace##listScans
+msgid "Scans usage details "
+msgstr "Scans usage details "
+
+#: dashboard##workspace##listScansLegend##bleam
+msgid "bleam"
+msgstr "bleam"
+
+#: dashboard##workspace##listScansLegend##date
+msgid "Date"
+msgstr "Date"
+
+#: dashboard##workspace##listScansLegend##thingName
+msgid "ID"
+msgstr "ID"
+
+#: dashboard##workspace##mapScans
+msgid "bleam scans map"
+msgstr "bleam scans map"
+
+#: dashboard##workspace##nbScansLegend
+msgid "All scans of bleams from this workspace"
+msgstr "All scans of bleams from this workspace"
+
+#: dashboard##workspace##title
+msgid "Division management"
+msgstr "Division management"
+
+#: dashboard##company##nbScansLegend
+msgid "All scans of bleams from all divisions"
+msgstr "All scans of bleams from all divisions"
+
+#: dashboard##company##nbThingsLegend
+msgid "All things in account"
+msgstr "All things in account"
+
+#: dashboard##company##nbThings
+msgid "Number of equipements"
+msgstr "Number of equipements"
+
+#: dashboard##company##nbUsers
+msgid "Number of users"
+msgstr "Number of users"
+
+#: dashboard##company##nbUsersLegend
+msgid "All users in account"
+msgstr "All users in account"
+
+#: dashboard##company##nbWorkspaces
+msgid "Number of area"
+msgstr "Number of area"
+
+#: dashboard##company##nbWorkspacesLegend
+msgid "All disivions in account"
+msgstr "All disivions in account"
+
+#: dashboard##company##title
+msgid "Company"
+msgstr "Company"
+
+#: dashboard##company##useScans
+msgid "Scans usage"
+msgstr "Scans usage"
+
+#: dashboard##company##useWorkspaces
+msgid "Area usage"
+msgstr "Area usage"
+
+#: documents##popups##create##name
+msgid "Folder name"
+msgstr "Folder name"
+
+#: documents##popups##create##title
+msgid "Create folder "
+msgstr "Create folder "
+
+#: menu##account##dashboard
+msgid "Dashboard"
+msgstr "Dashboard"
+
+#: menu##account##profile
+msgid "Profile"
+msgstr "Profile"
+
+#: menu##account##title
+msgid "My Account"
+msgstr "My Account"
+
+#: menu##documents
+msgid "Documents"
+msgstr "Documents"
+
+#: menu##organization##subscription
+msgid "Quota / Subscription"
+msgstr "Quota / Subscription"
+
+#: menu##organization##title
+msgid "Manage company"
+msgstr "Manage company"
+
+#: menu##users
+msgid "Users"
+msgstr "Users"
+
+#: menu##workspace##ar
+msgid "Augmented Reality"
+msgstr "Augmented Reality"
+
+#: menu##workspace##arModels
+msgid "AR models"
+msgstr "AR models"
+
+#: menu##workspace##bleamModels
+msgid "Bleam models"
+msgstr "Bleam models"
+
+#: menu##workspace##bleams
+msgid "Bleams"
+msgstr "Bleams"
+
+#: menu##workspace##bleamsGenerated
+msgid "Bleams generated"
+msgstr "Bleams generated"
+
+#: menu##workspace##forms
+msgid "Forms"
+msgstr "Forms"
+
+#: menu##workspace##formsConfigured
+msgid "Forms configured"
+msgstr "Forms configured"
+
+#: menu##workspace##formsModels
+msgid "Forms models"
+msgstr "Forms models"
+
+#: menu##workspace##scenario
+msgid "Scenario"
+msgstr "Scenario"
+
+#: menu##workspace##title
+msgid "Department / division management"
+msgstr "Department / division management"
+
+#: menu##workspace##things
+msgid "Assets"
+msgstr "Assets"
+
+#: users##assignRole
+msgid "Assign role "
+msgstr "Assign role "
+
+#: users##assignWorkspace
+msgid "Assign department"
+msgstr "Assign department"
+
+#: users##nbUsers
+msgid "User number"
+msgstr "User number"
+
+#: users##nbUsersInOrganization
+msgid "Users within the organisation"
+msgstr "Users within the organisation"
+
+#: users##nbUsersInWorkspace
+msgid "Users within area"
+msgstr "Users within area"
+
+#: users##popups##additionalInformation
+msgid "Additional information"
+msgstr "Additional information"
+
+#: users##popups##assignWorkspace##apply
+msgid "Apply / Assign "
+msgstr "Apply / Assign "
+
+#: users##popups##assignWorkspace##assign
+msgid "Assign to area"
+msgstr "Assign to area"
+
+#: users##popups##assignWorkspace##error
+msgid "Error while assigning to workspace"
+msgstr "Error while assigning to workspace"
+
+#: users##popups##assignWorkspace##select
+msgid "Choose area"
+msgstr "Choose area"
+
+#: users##popups##assignRole##assign
+msgid "Assign roles"
+msgstr "Assign roles"
+
+#: users##popups##assignRole##error
+msgid "Error while assigning roles"
+msgstr "Error while assigning roles"
+
+#: users##popups##assignRole##ignoreUser
+msgid "Ignore this user"
+msgid_plural "Ignore those users"
+msgstr[0] "Ignore this user"
+msgstr[1] "Ignore those users"
+
+#: users##popups##assignRole##moveUserInWorkspace
+msgid "Move the user in the workspace"
+msgid_plural "Move the users in the workspace"
+msgstr[0] "Move the user in the workspace"
+msgstr[1] "Move the users in the workspace"
+
+#: users##popups##assignRole##role
+msgid "Select role(s)"
+msgstr "Select role(s)"
+
+#: users##popups##assignRole##scope
+msgid "Select a scope"
+msgstr "Select a scope"
+
+#: users##popups##assignRole##userNotInWorkspace
+msgid "user doesn't belong to the selected workspace"
+msgid_plural "users doesn't belong to the selected workspace"
+msgstr[0] "user doesn't belong to the selected workspace"
+msgstr[1] "users doesn't belong to the selected workspace"
+
+#: users##popups##assignRole##userSelected
+msgid "user selected"
+msgid_plural "users selected"
+msgstr[0] "user selected"
+msgstr[1] "users selected"
+
+#: users##popups##assignRole##warning
+msgid "WARNING !"
+msgstr "WARNING !"
+
+#: users##popups##edit##title
+msgid "Edit user"
+msgstr "Edit user"
+
+#: users##popups##create##initRole
+msgid "Assign role right after creation "
+msgstr "Assign role right after creation "
+
+#: users##popups##create##title
+msgid "Create user"
+msgstr "Create user"
+
+#: users##popups##delete##confirm
+msgid "Are you sure you want to delete the user {{userName}}?"
+msgid_plural "Are you sure you want to delete selected users?"
+msgstr[0] "Are you sure you want to delete the user {{userName}}?"
+msgstr[1] "Are you sure you want to delete selected users?"
+
+#: users##popups##delete##title
+msgid "Delete user"
+msgid_plural "Delete users"
+msgstr[0] "Delete user"
+msgstr[1] "Delete users"
+
+#: users##popups##information
+msgid "General information "
+msgstr "General information "
+
+#: users##popups##unassignWorkspace##confirm
+msgid "Are you sure to remove this user from area?"
+msgid_plural "Are you sure to remove those users from area?"
+msgstr[0] "Are you sure to remove this user from area?"
+msgstr[1] "Are you sure to remove those users from area?"
+
+#: users##popups##unassignWorkspace##title
+msgid "Unassign from workspace"
+msgstr "Unassign from workspace"
+
+#: signin##question
+msgid "What is your core business ?"
+msgstr "What is your core business ?"
+
+#: signin##answer
+msgctxt "maintenance"
+msgid "Maintenance"
+msgstr "Maintenance"
+
+#: signin##answer
+msgctxt "marketing"
+msgid "Marketing"
+msgstr "Marketing"
+
+#: signin##answer
+msgctxt "production"
+msgid "Production"
+msgstr "Production"
+
+#: signin##answer
+msgctxt "security"
+msgid "Security"
+msgstr "Security"
+
+#: signin##answer
+msgctxt "other"
+msgid "Other"
+msgstr "Other"

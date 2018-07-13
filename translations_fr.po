@@ -1,0 +1,597 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: i18next-conv\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1)\n"
+"POT-Creation-Date: 2018-06-22T16:05:30.547Z\n"
+"PO-Revision-Date: 2018-06-22T16:05:30.547Z\n"
+"Language: fr\n"
+
+#: common##cancel
+msgid "Cancel"
+msgstr "Annuler"
+
+#: common##close
+msgid "Close"
+msgstr "Fermer"
+
+#: common##comingSoon
+msgid "Coming Soon"
+msgstr "Bientôt Disponible"
+
+#: common##count##remaining
+msgid "Remaining"
+msgstr "Restants"
+
+#: common##count##unlimited
+msgid "unlimited"
+msgstr "Illimité"
+
+#: common##count##used
+msgid "Used"
+msgstr "Utilisés"
+
+#: common##country
+msgid "Country"
+msgstr "Pays "
+
+#: common##create
+msgid "Create"
+msgstr "Créer"
+
+#: common##delete
+msgid "Delete"
+msgstr "Supprimer"
+
+#: common##duplicate
+msgid "Duplicate"
+msgstr "Dupliquer"
+
+#: common##edit
+msgid "Edit"
+msgstr "Modifier"
+
+#: common##email
+msgid "Email address"
+msgstr "Adresse email"
+
+#: common##filters##active
+msgid "Active filters"
+msgstr "Filtres actifs "
+
+#: common##filters##add
+msgid "Add a filter"
+msgstr "Ajouter un filtre "
+
+#: common##filters##apply
+msgid "Apply filters"
+msgstr "Appliquer les filtres "
+
+#: common##filters##equal
+msgid "is equal to "
+msgstr "est égal à "
+
+#: common##filters##filters
+msgid "Filters"
+msgstr "Filtres"
+
+#: common##filters##include
+msgid "includes "
+msgstr "inclue"
+
+#: common##filters##notEqual
+msgid "is not equal to "
+msgstr "n'est pas égal "
+
+#: common##filters##value
+msgid "Value"
+msgstr "Valeur"
+
+#: common##firstName
+msgid "First Name"
+msgstr "Prénom"
+
+#: common##language
+msgid "Language"
+msgstr "Langue "
+
+#: common##lastName
+msgid "Last Name"
+msgstr "Nom"
+
+#: common##next
+msgid "Next"
+msgstr "Suvant"
+
+#: common##noMatch
+msgid "Nothing match your choosing"
+msgstr "Aucun objet ne correspond à votre sélection"
+
+#: common##ok
+msgid "OK"
+msgstr "OK"
+
+#: common##phone
+msgid "Phone number"
+msgstr "Numéro de téléphone "
+
+#: common##previous
+msgid "Previous"
+msgstr "Précédent"
+
+#: common##quotas##insufficient
+msgid "Insufficient quota"
+msgstr "Quota insuffisant"
+
+#: common##roles
+msgid "Roles"
+msgstr "Roles"
+
+#: common##save
+msgid "Save "
+msgstr "Enregistrer"
+
+#: common##timeFilter##all
+msgid "Total"
+msgstr "Total"
+
+#: common##timeFilter##day
+msgid "Day"
+msgstr "Jour"
+
+#: common##timeFilter##month
+msgid "Month"
+msgstr "Moi"
+
+#: common##timeFilter##week
+msgid "Week"
+msgstr "Semaine"
+
+#: common##timeFilter##year
+msgid "Year"
+msgstr "Année"
+
+#: common##update
+msgid "Update"
+msgstr "Mettre à jour"
+
+#: common##use
+msgid "Use"
+msgstr "Utiliser"
+
+#: common##validate
+msgid "Validate"
+msgstr "Valider"
+
+#: common##weekday##monday
+msgid "Monday"
+msgstr "Lundi"
+
+#: common##weekday##tuesday
+msgid "Tuesday"
+msgstr "Mardi"
+
+#: common##weekday##wednesday
+msgid "Wednesday"
+msgstr "Mercredi"
+
+#: common##weekday##thursday
+msgid "Thursday"
+msgstr "Jeudi"
+
+#: common##weekday##friday
+msgid "Friday"
+msgstr "Vendredi"
+
+#: common##weekday##saturday
+msgid "Saturday"
+msgstr "Samedi"
+
+#: common##weekday##sunday
+msgid "Sunday"
+msgstr "Dimanche"
+
+#: common##workspace
+msgid "Divisions"
+msgstr "Divisions"
+
+#: common##zoomIn
+msgid "Zoom in"
+msgstr "Zoom avant"
+
+#: common##zoomOut
+msgid " Zoom out"
+msgstr " Zoom arrière"
+
+#: profile##department
+msgid "Area"
+msgstr "Zone"
+
+#: profile##edit
+msgid "Edit profile"
+msgstr "Modifier le profil"
+
+#: profile##editPhoto
+msgid "Edit photo"
+msgstr "Modifier photo"
+
+#: profile##edition##photo##help
+msgid "Position and size photo"
+msgstr "Positionnez et redimentionnez la photo"
+
+#: profile##edition##photo##title
+msgid "Profile picture edition"
+msgstr "Modification de la photo de profil"
+
+#: profile##edition##photo##upload
+msgid "Upload photo"
+msgstr "Importer une photo"
+
+#: profile##password##confirmMessage
+msgid "Your new password must be confirmed correctly."
+msgstr "Votre nouveau mot de passe doit être confirmé correctement."
+
+#: profile##password##confirmPassword
+msgid "Verify password"
+msgstr "Confirmez le mot de passe"
+
+#: profile##password##currentPassword
+msgid "Current password"
+msgstr "Mot de passe actuel"
+
+#: profile##password##newPassword
+msgid "New password"
+msgstr "Nouveau mot de passe"
+
+#: profile##password##popup##message
+msgid "New password has been saved"
+msgstr "Nouveau mot de passe enregistré"
+
+#: profile##password##title
+msgid "Password edition"
+msgstr "Modification du mot de passe"
+
+#: connexion##company
+msgid "Company name"
+msgstr "Nom de l'organisation"
+
+#: connexion##login
+msgid "Log In"
+msgstr "Se connecter"
+
+#: connexion##password
+msgid "Password"
+msgstr "Mot de passe"
+
+#: connexion##pro
+msgid "Pro"
+msgstr "Pro"
+
+#: connexion##public
+msgid "Public"
+msgstr "Public"
+
+#: connexion##rememberme
+msgid "Remember me"
+msgstr "Se souvenir de moi"
+
+#: dashboard##useBleams
+msgid "bleams usage"
+msgstr "Conso bleams"
+
+#: dashboard##nbScans
+msgid "Number of scans"
+msgstr "Nombre de scans"
+
+#: dashboard##useThings
+msgid "Assets usage"
+msgstr "Conso Objets"
+
+#: dashboard##workspace##lineScans
+msgid "Assets scan evolution"
+msgstr "Evolution objets scannés"
+
+#: dashboard##workspace##lineScansLegend
+msgid "scans"
+msgstr "scans"
+
+#: dashboard##workspace##listScans
+msgid "Scans usage details "
+msgstr "Détails utilisation scans"
+
+#: dashboard##workspace##listScansLegend##bleam
+msgid "bleam"
+msgstr "bleam"
+
+#: dashboard##workspace##listScansLegend##date
+msgid "Date"
+msgstr "Date"
+
+#: dashboard##workspace##listScansLegend##thingName
+msgid "ID"
+msgstr "ID"
+
+#: dashboard##workspace##mapScans
+msgid "bleam scans map"
+msgstr "Carte bleams scannés"
+
+#: dashboard##workspace##nbScansLegend
+msgid "All scans of bleams from this workspace"
+msgstr "Scans sur les bleams du compte client"
+
+#: dashboard##workspace##title
+msgid "Division management"
+msgstr "Gestion de la division"
+
+#: dashboard##company##nbScansLegend
+msgid "All scans of bleams from all divisions"
+msgstr "Scans sur les bleams du compte client"
+
+#: dashboard##company##nbThingsLegend
+msgid "All things in account"
+msgstr "Objets dans le compte client"
+
+#: dashboard##company##nbThings
+msgid "Number of equipements"
+msgstr "Nombre d'équipements"
+
+#: dashboard##company##nbUsers
+msgid "Number of users"
+msgstr "Nombre d'utilisateurs"
+
+#: dashboard##company##nbUsersLegend
+msgid "All users in account"
+msgstr "Utilisateurs dans le compte client"
+
+#: dashboard##company##nbWorkspaces
+msgid "Number of area"
+msgstr "Nombre de zone"
+
+#: dashboard##company##nbWorkspacesLegend
+msgid "All disivions in account"
+msgstr "Zones dans le compte client"
+
+#: dashboard##company##title
+msgid "Company"
+msgstr "Organisation"
+
+#: dashboard##company##useScans
+msgid "Scans usage"
+msgstr "Conso Scans"
+
+#: dashboard##company##useWorkspaces
+msgid "Area usage"
+msgstr "Conso Zone"
+
+#: documents##popups##create##name
+msgid "Folder name"
+msgstr "Nom du dossier"
+
+#: documents##popups##create##title
+msgid "Create folder "
+msgstr "Création d'un dossier"
+
+#: menu##account##dashboard
+msgid "Dashboard"
+msgstr "Tableau de bord"
+
+#: menu##account##profile
+msgid "Profile"
+msgstr "Profil"
+
+#: menu##account##title
+msgid "My Account"
+msgstr "My Account"
+
+#: menu##documents
+msgid "Documents"
+msgstr "Documents"
+
+#: menu##organization##subscription
+msgid "Quota / Subscription"
+msgstr "Quotas / Souscription"
+
+#: menu##organization##title
+msgid "Manage company"
+msgstr "Gestion de l'organisation"
+
+#: menu##users
+msgid "Users"
+msgstr "Utilisateurs"
+
+#: menu##workspace##ar
+msgid "Augmented Reality"
+msgstr "Réalité augmentée"
+
+#: menu##workspace##arModels
+msgid "AR models"
+msgstr "Modèles AR"
+
+#: menu##workspace##bleamModels
+msgid "Bleam models"
+msgstr "Modèles bleam"
+
+#: menu##workspace##bleams
+msgid "Bleams"
+msgstr "Bleams"
+
+#: menu##workspace##bleamsGenerated
+msgid "Bleams generated"
+msgstr "Bleams générés"
+
+#: menu##workspace##forms
+msgid "Forms"
+msgstr "Formulaires"
+
+#: menu##workspace##formsConfigured
+msgid "Forms configured"
+msgstr "Formulaires configurés"
+
+#: menu##workspace##formsModels
+msgid "Forms models"
+msgstr "Modèles formulaires"
+
+#: menu##workspace##scenario
+msgid "Scenario"
+msgstr "Scénarios"
+
+#: menu##workspace##title
+msgid "Department / division management"
+msgstr "Gestion de la division"
+
+#: menu##workspace##things
+msgid "Assets"
+msgstr "Objets"
+
+#: users##assignRole
+msgid "Assign role "
+msgstr "Assigner role "
+
+#: users##assignWorkspace
+msgid "Assign department"
+msgstr "Assigner département "
+
+#: users##nbUsers
+msgid "User number"
+msgstr "Nombre d'utilisateurs"
+
+#: users##nbUsersInOrganization
+msgid "Users within the organisation"
+msgstr "Utilisateurs au sein de l'organisation"
+
+#: users##nbUsersInWorkspace
+msgid "Users within area"
+msgstr "Utilisateurs au sein d'une zone"
+
+#: users##popups##additionalInformation
+msgid "Additional information"
+msgstr "Complément d'information"
+
+#: users##popups##assignWorkspace##apply
+msgid "Apply / Assign "
+msgstr "Appliquer/ Assigner"
+
+#: users##popups##assignWorkspace##assign
+msgid "Assign to area"
+msgstr "Assignation de zone"
+
+#: users##popups##assignWorkspace##error
+msgid "Error while assigning to workspace"
+msgstr "Une erreur est survenue pendant l'assignement au workspace"
+
+#: users##popups##assignWorkspace##select
+msgid "Choose area"
+msgstr "Choisir la (les) zone(s)"
+
+#: users##popups##assignRole##assign
+msgid "Assign roles"
+msgstr "Assignation de rôles "
+
+#: users##popups##assignRole##error
+msgid "Error while assigning roles"
+msgstr "Une erreur est survenu pendant l'assignement du rôle"
+
+#: users##popups##assignRole##ignoreUser
+msgid "Ignore this user"
+msgid_plural "Ignore those users"
+msgstr[0] "Ignore this user"
+msgstr[1] "Ignore those users"
+
+#: users##popups##assignRole##moveUserInWorkspace
+msgid "Move the user in the workspace"
+msgid_plural "Move the users in the workspace"
+msgstr[0] "Move the user in the workspace"
+msgstr[1] "Move the users in the workspace"
+
+#: users##popups##assignRole##role
+msgid "Select role(s)"
+msgstr "Sélectionner le(s) rôle(s) "
+
+#: users##popups##assignRole##scope
+msgid "Select a scope"
+msgstr "Selectionner un champ d'action"
+
+#: users##popups##assignRole##userNotInWorkspace
+msgid "user doesn't belong to the selected workspace"
+msgid_plural "users doesn't belong to the selected workspace"
+msgstr[0] "user doesn't belong to the selected workspace"
+msgstr[1] "users doesn't belong to the selected workspace"
+
+#: users##popups##assignRole##userSelected
+msgid "user selected"
+msgid_plural "users selected"
+msgstr[0] "utilisateurs sélectionnés"
+msgstr[1] "utilisateur sélectionné"
+
+#: users##popups##assignRole##warning
+msgid "WARNING !"
+msgstr "ATTENTION !"
+
+#: users##popups##edit##title
+msgid "Edit user"
+msgstr "Modification d'un utilisateur "
+
+#: users##popups##create##initRole
+msgid "Assign role right after creation "
+msgstr "Assigner un rôle immédiatement "
+
+#: users##popups##create##title
+msgid "Create user"
+msgstr "Création d'un utilisateur"
+
+#: users##popups##delete##confirm
+msgid "Are you sure you want to delete the user {{userName}}?"
+msgid_plural "Are you sure you want to delete selected users?"
+msgstr[0] "Voulez-vous vraiment supprimer l'utilisateur {{nom_utilisateur}} ?"
+msgstr[1] "Voulez-vous vraiment supprimer les utilisateurs sélectionnés ?"
+
+#: users##popups##delete##title
+msgid "Delete user"
+msgid_plural "Delete users"
+msgstr[0] "Suppression d'un utilisateur "
+msgstr[1] "Suppression des utilisateurs "
+
+#: users##popups##information
+msgid "General information "
+msgstr "Informations générales"
+
+#: users##popups##unassignWorkspace##confirm
+msgid "Are you sure to remove this user from area?"
+msgid_plural "Are you sure to remove those users from area?"
+msgstr[0] "Are you sure to remove this user from area?"
+msgstr[1] "Are you sure to remove those users from area?"
+
+#: users##popups##unassignWorkspace##title
+msgid "Unassign from workspace"
+msgstr "Unassign from workspace"
+
+#: signin##question
+msgid "What is your core business ?"
+msgstr "Quel est votre cœur de métier ?"
+
+#: signin##answer
+msgctxt "maintenance"
+msgid "Maintenance"
+msgstr "Maintenance"
+
+#: signin##answer
+msgctxt "marketing"
+msgid "Marketing"
+msgstr "Marketing"
+
+#: signin##answer
+msgctxt "production"
+msgid "Production"
+msgstr "Production"
+
+#: signin##answer
+msgctxt "security"
+msgid "Security"
+msgstr "Sécurité"
+
+#: signin##answer
+msgctxt "other"
+msgid "Other"
+msgstr "Autre"

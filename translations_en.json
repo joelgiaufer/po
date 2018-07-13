@@ -1,0 +1,215 @@
+{
+    "common": {
+        "cancel": "Cancel",
+        "close": "Close",
+        "comingSoon": "Coming Soon",
+        "count": {
+            "remaining": "Remaining",
+            "unlimited": "unlimited",
+            "used": "Used"
+        },
+        "country": "Country",
+        "create": "Create",
+        "delete": "Delete",
+        "duplicate": "Duplicate",
+        "edit": "Edit",
+        "email": "Email address",
+        "filters": {
+            "active": "Active filters",
+            "add": "Add a filter",
+            "apply": "Apply filters",
+            "equal": "is equal to ",
+            "filters": "Filters",
+            "include": "includes ",
+            "notEqual": "is not equal to ",
+            "value": "Value"
+        },
+        "firstName": "First Name",
+        "language": "Language",
+        "lastName": "Last Name",
+        "next": "Next",
+        "noMatch": "Nothing match your choosing",
+        "ok": "OK",
+        "phone": "Phone number",
+        "previous": "Previous",
+        "quotas": {
+            "insufficient": "Insufficient quota"
+        },
+        "roles": "Roles",
+        "save": "Save ",
+        "timeFilter": {
+            "all": "Total",
+            "day": "Day",
+            "month": "Month",
+            "week": "Week",
+            "year": "Year"
+        },
+        "update": "Update",
+        "use": "Use",
+        "validate": "Validate",
+        "weekday": { 
+          "monday": "Monday", 
+          "tuesday": "Tuesday", 
+          "wednesday": "Wednesday", 
+          "thursday": "Thursday", 
+          "friday": "Friday", 
+          "saturday": "Saturday", 
+          "sunday": "Sunday" 
+        },
+        "workspace": "Divisions",
+        "zoomIn": "Zoom in",
+        "zoomOut": " Zoom out"
+    },
+    "profile": {
+        "department": "Area",
+        "edit": "Edit profile",
+        "editPhoto": "Edit photo",
+        "edition": {
+            "photo": {
+                "help": "Position and size photo",
+                "title": "Profile picture edition",
+                "upload": "Upload photo"
+            }
+        },
+        "password": {
+            "confirmMessage": "Your new password must be confirmed correctly.",
+            "confirmPassword": "Verify password",
+            "currentPassword": "Current password",
+            "newPassword": "New password",
+            "popup": {
+                "message": "New password has been saved"
+            },
+            "title": "Password edition"
+        }
+    },
+    "connexion": {
+        "company": "Company name",
+        "login": "Log In",
+        "password": "Password",
+        "pro": "Pro",
+        "public": "Public",
+        "rememberme": "Remember me"
+    },
+    "dashboard": {
+        "useBleams": "bleams usage",
+        "nbScans": "Number of scans",
+        "useThings": "Assets usage",
+        "workspace": {
+            "lineScans": "Assets scan evolution",
+            "lineScansLegend": "scans",
+            "listScans": "Scans usage details ",
+            "listScansLegend": {
+                "bleam": "bleam",
+                "date": "Date",
+                "thingName": "ID"
+            },
+            "mapScans": "bleam scans map",
+            "nbScansLegend": "All scans of bleams from this workspace",
+            "title": "Division management"
+        },
+        "company": {
+            "nbScansLegend": "All scans of bleams from all divisions",
+            "nbThingsLegend": "All things in account",
+            "nbThings": "Number of equipements",
+            "nbUsers": "Number of users",
+            "nbUsersLegend": "All users in account",
+            "nbWorkspaces": "Number of area",
+            "nbWorkspacesLegend": "All disivions in account",
+            "title": "Company",
+            "useScans": "Scans usage",
+            "useWorkspaces": "Area usage"
+        }
+    },
+    "documents": {
+        "popups": {
+            "create": {
+                "name": "Folder name",
+                "title": "Create folder "
+            }
+        }
+    },
+    "menu": {
+        "account": {
+            "dashboard": "Dashboard",
+            "profile": "Profile",
+            "title": "My Account"
+        },
+        "documents": "Documents",
+        "organization": {
+            "subscription": "Quota / Subscription",
+            "title": "Manage company"
+        },
+        "users": "Users",
+        "workspace": {
+            "ar": "Augmented Reality",
+            "arModels": "AR models",
+            "bleamModels": "Bleam models",
+            "bleams": "Bleams",
+            "bleamsGenerated": "Bleams generated",
+            "forms": "Forms",
+            "formsConfigured": "Forms configured",
+            "formsModels": "Forms models",
+            "scenario": "Scenario",
+            "title": "Department / division management",
+            "things": "Assets"
+        }
+    },
+    "users": {
+        "assignRole": "Assign role ",
+        "assignWorkspace": "Assign department",
+        "nbUsers": "User number",
+        "nbUsersInOrganization": "Users within the organisation",
+        "nbUsersInWorkspace": "Users within area",
+        "popups": {
+            "additionalInformation": "Additional information",
+            "assignWorkspace": {
+                "apply": "Apply / Assign ",
+                "assign": "Assign to area",
+                "error": "Error while assigning to workspace",
+                "select": "Choose area"
+            },
+            "assignRole": {
+                "assign": "Assign roles",
+                "error": "Error while assigning roles",
+                "ignoreUser": "Ignore this user",
+                "ignoreUser_plural": "Ignore those users",
+                "moveUserInWorkspace": "Move the user in the workspace",
+                "moveUserInWorkspace_plural": "Move the users in the workspace",
+                "role": "Select role(s)",
+                "scope": "Select a scope",
+                "userNotInWorkspace": "user doesn't belong to the selected workspace",
+                "userNotInWorkspace_plural": "users doesn't belong to the selected workspace",
+                "userSelected": "user selected",
+                "userSelected_plural": "users selected",
+                "warning": "WARNING !"
+            },
+            "edit": {
+                "title": "Edit user"
+            },
+            "create": {
+                "initRole": "Assign role right after creation ",
+                "title": "Create user"
+            },
+            "delete": {
+                "confirm": "Are you sure you want to delete the user {{userName}}?",
+                "confirm_plural": "Are you sure you want to delete selected users?",
+                "title": "Delete user",
+                "title_plural": "Delete users"
+            },
+            "information": "General information ",
+            "unassignWorkspace": {
+                "confirm": "Are you sure to remove this user from area?",
+                "confirm_plural": "Are you sure to remove those users from area?",
+                "title": "Unassign from workspace"
+            }
+        }
+    },
+    "signin": { 
+        "question": "What is your core business ?",
+        "answer_maintenance": "Maintenance",
+        "answer_marketing": "Marketing",
+        "answer_production": "Production",
+        "answer_security": "Security",
+        "answer_other": "Other"
+    }
+}

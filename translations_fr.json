@@ -1,0 +1,215 @@
+{
+    "common": {
+        "cancel": "Annuler",
+        "close": "Fermer",
+        "comingSoon": "Bientôt Disponible",
+        "count": {
+            "remaining": "Restants",
+            "unlimited": "Illimité",
+            "used": "Utilisés"
+        },
+        "country": "Pays ",
+        "create": "Créer",
+        "delete": "Supprimer",
+        "duplicate": "Dupliquer",
+        "edit": "Modifier",
+        "email": "Adresse email",
+        "filters": {
+            "active": "Filtres actifs ",
+            "add": "Ajouter un filtre ",
+            "apply": "Appliquer les filtres ",
+            "equal": "est égal à ",
+            "filters": "Filtres",
+            "include": "inclue",
+            "notEqual": "n'est pas égal ",
+            "value": "Valeur"
+        },
+        "firstName": "Prénom",
+        "language": "Langue ",
+        "lastName": "Nom",
+        "next": "Suvant",
+        "noMatch": "Aucun objet ne correspond à votre sélection",
+        "ok": "OK",
+        "phone": "Numéro de téléphone ",
+        "previous": "Précédent",
+        "quotas": {
+            "insufficient": "Quota insuffisant"
+        },
+        "roles": "Roles",
+        "save": "Enregistrer",
+        "timeFilter": {
+            "all": "Total",
+            "day": "Jour",
+            "month": "Moi",
+            "week": "Semaine",
+            "year": "Année"
+        },
+        "update": "Mettre à jour",
+        "use": "Utiliser",
+        "validate": "Valider",
+        "weekday": { 
+          "monday": "Lundi", 
+          "tuesday": "Mardi", 
+          "wednesday": "Mercredi", 
+          "thursday": "Jeudi", 
+          "friday": "Vendredi", 
+          "saturday": "Samedi", 
+          "sunday": "Dimanche" 
+        },
+        "workspace": "Divisions",
+        "zoomIn": "Zoom avant",
+        "zoomOut": " Zoom arrière"
+    },
+    "profile": {
+        "department": "Zone",
+        "edit": "Modifier le profil",
+        "editPhoto": "Modifier photo",
+        "edition": {
+            "photo": {
+                "help": "Positionnez et redimentionnez la photo",
+                "title": "Modification de la photo de profil",
+                "upload": "Importer une photo"
+            }
+        },
+        "password": {
+            "confirmMessage": "Votre nouveau mot de passe doit être confirmé correctement.",
+            "confirmPassword": "Confirmez le mot de passe",
+            "currentPassword": "Mot de passe actuel",
+            "newPassword": "Nouveau mot de passe",
+            "popup": {
+                "message": "Nouveau mot de passe enregistré"
+            },
+            "title": "Modification du mot de passe"
+        }
+    },
+    "connexion": {
+        "company": "Nom de l'organisation",
+        "login": "Se connecter",
+        "password": "Mot de passe",
+        "pro": "Pro",
+        "public": "Public",
+        "rememberme": "Se souvenir de moi"
+    },
+    "dashboard": {
+        "useBleams": "Conso bleams",
+        "nbScans": "Nombre de scans",
+        "useThings": "Conso Objets",
+        "workspace": {
+            "lineScans": "Evolution objets scannés",
+            "lineScansLegend": "scans",
+            "listScans": "Détails utilisation scans",
+            "listScansLegend": {
+                "bleam": "bleam",
+                "date": "Date",
+                "thingName": "ID"
+            },
+            "mapScans": "Carte bleams scannés",
+            "nbScansLegend": "Scans sur les bleams du compte client",
+            "title": "Gestion de la division"
+        },
+        "company": {
+            "nbScansLegend": "Scans sur les bleams du compte client",
+            "nbThingsLegend": "Objets dans le compte client",
+            "nbThings": "Nombre d'équipements",
+            "nbUsers": "Nombre d'utilisateurs",
+            "nbUsersLegend": "Utilisateurs dans le compte client",
+            "nbWorkspaces": "Nombre de zone",
+            "nbWorkspacesLegend": "Zones dans le compte client",
+            "title": "Organisation",
+            "useScans": "Conso Scans",
+            "useWorkspaces": "Conso Zone"
+        }
+    },
+    "documents": {
+        "popups": {
+            "create": {
+                "name": "Nom du dossier",
+                "title": "Création d'un dossier"
+            }
+        }
+    },
+    "menu": {
+        "account": {
+            "dashboard": "Tableau de bord",
+            "profile": "Profil",
+            "title": "My Account"
+        },
+        "documents": "Documents",
+        "organization": {
+            "subscription": "Quotas / Souscription",
+            "title": "Gestion de l'organisation"
+        },
+        "users": "Utilisateurs",
+        "workspace": {
+            "ar": "Réalité augmentée",
+            "arModels": "Modèles AR",
+            "bleamModels": "Modèles bleam",
+            "bleams": "Bleams",
+            "bleamsGenerated": "Bleams générés",
+            "forms": "Formulaires",
+            "formsConfigured": "Formulaires configurés",
+            "formsModels": "Modèles formulaires",
+            "scenario": "Scénarios",
+            "title": "Gestion de la division",
+            "things": "Objets"
+        }
+    },
+    "users": {
+        "assignRole": "Assigner role ",
+        "assignWorkspace": "Assigner département ",
+        "nbUsers": "Nombre d'utilisateurs",
+        "nbUsersInOrganization": "Utilisateurs au sein de l'organisation",
+        "nbUsersInWorkspace": "Utilisateurs au sein d'une zone",
+        "popups": {
+            "additionalInformation": "Complément d'information",
+            "assignWorkspace": {
+                "apply": "Appliquer/ Assigner",
+                "assign": "Assignation de zone",
+                "error": "Une erreur est survenue pendant l'assignement au workspace",
+                "select": "Choisir la (les) zone(s)"
+            },
+            "assignRole": {
+                "assign": "Assignation de rôles ",
+                "error": "Une erreur est survenu pendant l'assignement du rôle",
+                "ignoreUser": "Ignore this user",
+                "ignoreUser_plural": "Ignore those users",
+                "moveUserInWorkspace": "Move the user in the workspace",
+                "moveUserInWorkspace_plural": "Move the users in the workspace",
+                "role": "Sélectionner le(s) rôle(s) ",
+                "scope": "Selectionner un champ d'action",
+                "userNotInWorkspace": "user doesn't belong to the selected workspace",
+                "userNotInWorkspace_plural": "users doesn't belong to the selected workspace",
+                "userSelected": "utilisateurs sélectionnés",
+                "userSelected_plural": "utilisateur sélectionné",
+                "warning": "ATTENTION !"
+            },
+            "edit": {
+                "title": "Modification d'un utilisateur "
+            },
+            "create": {
+                "initRole": "Assigner un rôle immédiatement ",
+                "title": "Création d'un utilisateur"
+            },
+            "delete": {
+                "confirm": "Voulez-vous vraiment supprimer l'utilisateur {{nom_utilisateur}} ?",
+                "confirm_plural": "Voulez-vous vraiment supprimer les utilisateurs sélectionnés ?",
+                "title": "Suppression d'un utilisateur ",
+                "title_plural": "Suppression des utilisateurs "
+            },
+            "information": "Informations générales",
+            "unassignWorkspace": {
+                "confirm": "Are you sure to remove this user from area?",
+                "confirm_plural": "Are you sure to remove those users from area?",
+                "title": "Unassign from workspace"
+            }
+        }
+    },
+    "signin": { 
+        "question": "Quel est votre cœur de métier ?",
+        "answer_maintenance": "Maintenance",
+        "answer_marketing": "Marketing",
+        "answer_production": "Production",
+        "answer_security": "Sécurité",
+        "answer_other": "Autre"
+    }
+}
