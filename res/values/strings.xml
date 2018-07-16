@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ From centralized translation Google Sheet: https://docs.google.com/spreadsheets/d/1XKNkLMXPCDuKF1tbJ4VIvRHRDBesY1l1lwZWOslpQUo/edit#gid=337729314
+  -->
+<resources>
+
+    <!-- Common -->
+    <string name="common_dialog_yes_button">yes</string>
+    <string name="common_dialog_no_button">no</string>
+    <string name="common_dialog_ok_button">OK</string>
+    <string name="common_form_field_mandatory_error">Field mandatory</string>
+    <string name="common_form_invalid_format_error">Invalid format</string>
+    <string name="common_storage_permission_toast">&#9888; Need permission to access files</string>
+    <string name="common_date_yesterday">Yesterday</string>
+    <!-- Homepage -->
+    <string name="homepage_get_started">Get started</string>
+    <!-- Sign in -->
+    <string name="signin_title">Sign in</string>
+    <string name="signin_business_button">Business</string>
+    <string name="signin_public_button">Public</string>
+    <string name="signin_email_hint">Enter your email</string>
+    <string name="signin_password_hint">Enter your password</string>
+    <string name="signin_forgot_password_link">Forgot password?</string>
+    <string name="signin_remember_me_text">Remember me</string>
+    <string name="signin_submit_button">Sign in</string>
+    <string name="signin_account_hint">Enter your business account name</string>
+    <string name="signin_success_toast">Welcome %s!</string>
+    <string name="signin_coming_soon">coming soon</string>
+    <!-- Authentication selector -->
+    <string name="auth_selector_signup_button">Create account</string>
+    <string name="auth_selector_or">or</string>
+    <string name="auth_selector_signin_button">Sign in</string>
+    <!-- Sign up Public/ Business -->
+    <string name="signup_title">Sign up</string>
+    <string name="signup_email_hint">Your email</string>
+    <string name="signup_password_hint">Your password</string>
+    <string name="signup_continue_button">Continue</string>
+    <string name="signup_firstname_hint">First name</string>
+    <string name="signup_lastname_hint">Last name</string>
+    <string name="signup_question">What is your core business ?</string>
+    <string name="signup_terms">Terms and conditions</string>
+    <string name="signup_terms_url">https://www.ubleam.com/wp-content/uploads/Ubleam-Conditions-Generales-dUtilisation.pdf</string>
+    <string name="signup_policy">Privacy Policy</string>
+    <string name="signup_policy_url">https://www.ubleam.com/wp-content/uploads/Ubleam-Charte-de-confidentialite.pdf</string>
+    <string name="signup_submit_button">Sign up</string>
+    <string name="signup_answer_maintenance">Maintenance</string>
+    <string name="signup_answer_marketing">Marketing</string>
+    <string name="signup_answer_production">Production</string>
+    <string name="signup_answer_security">Security</string>
+    <string name="signup_answer_other">Other</string>
+    <!-- Upgrade -->
+    <string name="upgrade_customer_title">Customer Services</string>
+    <string name="upgrade_customer_text">Dedicated interface, product documentation, additionnal purchases, data</string>
+    <string name="upgrade_button">BECOME PRO</string>
+    <string name="upgrade_maintenance_title">Technical Operations</string>
+    <string name="upgrade_maintenance_text">Simplify maintenance, work offline, generat form, export documentation, statistics</string>
+    <string name="upgrade_email">sales@ubleam.com</string>
+    <!-- My profile -->
+    <string name="profile_title">My profile</string>
+    <string name="profile_action_menu_password">Change your password</string>
+    <string name="profile_action_menu_switch_account">Switch your account</string>
+    <string name="profile_action_menu_logout">Logout</string>
+    <string name="profile_first_name_hint">First name</string>
+    <string name="profile_last_name_hint">Last name</string>
+    <string name="profile_button">Save changes</string>
+    <string name="profile_toast_success">Profile updated!</string>
+    <string name="profile_or">or</string>
+    <!-- My profile - switch -->
+    <string name="profile_switch_account_title">Switch your profile</string>
+    <string name="profile_switch_account_public">Public account(s)</string>
+    <string name="profile_switch_account_business">Business account(s)</string>
+    <!-- Past - anonyme -->
+    <string name="past_auth_inciter">Log In</string>
+    <!--<string name="past_auth_inciter">Sign up or Log In</string>-->
+    <string name="past_auth_helper_message">When you sign up your Scans will be saved to your account. You can then access them on a new phone or on OpenBleam.com</string>
+    <string name="past_anonymous">Anonymous</string>
+    <!-- Scan historic -->
+    <string name="scan_historic_title">%d Scans</string>
+    <string name="scan_historic_delete_all_alert_title">Delete all</string>
+    <string name="scan_historic_delete_all_alert_message">Do you really want to clear all data?</string>
+    <string name="scan_historic_delete_all_toast_success">Scans deleted!</string>
+    <string name="scan_historic_save_toast_success">Image saved!</string>
+    <string name="scan_historic_save_toast_error">Error to save image</string>
+    <string name="scan_historic_share_chooser_title">Share the bleam</string>
+    <string name="scan_historic_delete_alert_title">Delete</string>
+    <string name="scan_historic_delete_alert_message">Do you really want to delete the tag?</string>
+    <string name="scan_historic_delete_toast_success">Scan %s deleted!</string>
+    <string name="scan_historic_filter_text_view_hint">Filter on bleams…</string>
+    <string name="scan_historic_empty_list">You do not have scans yet</string>
+    <string name="scan_historic_action_save">Save</string>
+    <string name="scan_historic_action_delete">Delete</string>
+    <string name="scan_historic_action_share">Share</string>
+    <string name="scan_historic_arcover_save_toast_success">AR cover saved in your historic</string>
+    <string name="scan_historic_arcover_update_toast_success">AR cover updated in your historic</string>
+    <!-- Sign In Forgot Password -->
+    <string name="forgotpassword_title">Forgot Password</string>
+    <string name="forgotpassword_intro">We\'ll send you a recovery link to:</string>
+    <string name="forgotpassword_email_hint">Enter your email</string>
+    <string name="forgotpassword_button">Send a link</string>
+    <string name="forgotpassword_confirmation_title">Forgot Password</string>
+    <string name="forgotpassword_confirmation_sent_message">We\' ve send you a recovery link to :</string>
+    <string name="forgotpassword_confirmation_check_message">Please check your email and log in again</string>
+    <string name="forgotpassword_confirmation_button">Back</string>
+    <!-- Change password -->
+    <string name="changepassword_title">Change your password</string>
+    <string name="changepassword_old_password_hint">Old password</string>
+    <string name="changepassword_new_password_hint">New password</string>
+    <string name="changepassword_confirm_new_password_hint">Confirm new password</string>
+    <string name="changepassword_button">Save password</string>
+    <string name="changepassword_toast_success">Password changed!</string>
+    <!-- Logout -->
+    <string name="logout_alert_title">Confirm your Logout</string>
+    <string name="logout_alert_message">You want to logout, please confirm your choice</string>
+    <string name="logout_alert_yes_button">YES</string>
+    <string name="logout_alert_no_button">NO</string>
+    <string name="logout_toast_success">Logout success!</string>
+    <!-- Settings -->
+    <string name="settings_title">Settings</string>
+    <string name="settings_category_general">GENERAL</string>
+    <string name="settings_notification_title">PUSH NOTIFICATIONS</string>
+    <string name="settings_notification_summary">Receive notifications from the app</string>
+    <string name="settings_category_account">ACCOUNT</string>
+    <string name="settings_language_title">LANGUAGE</string>
+    <string name="settings_language_confirm_message">The language change will restart the application</string>
+    <string name="settings_language_success_toast">The application is restarted with the new language</string>
+    <string name="settings_language_english">English</string>
+    <string name="settings_language_french">French</string>
+    <string name="settings_category_support">SUPPORT</string>
+    <string name="settings_tutorial_title">HOW TO SCAN?</string>
+    <string name="settings_tutorial_summary">See the tutorial</string>
+    <string name="settings_about_title">ABOUT</string>
+    <string name="settings_about_summary">Learn more about Ubleam app</string>
+    <!-- About -->
+    <string name="about_title">About</string>
+    <string name="about_read_tutorial">Read tutorial</string>
+    <string name="about_contact_us">Contact us</string>
+    <string name="about_contact_us_email">contact@ubleam.com</string>
+    <string name="about_web_site">Visit the website</string>
+    <string name="about_web_site_url">https://www.ubleam.com</string>
+    <string name="about_ubleam_right">Ubleam ® all rights reserved</string>
+    <string name="about_version">Version %s and Library %s</string>
+    <string name="about_linkedin_url">https://fr.linkedin.com/company/ubleam</string>
+    <string name="about_twitter_url">https://twitter.com/ubleam</string>
+    <string name="about_youtube_url">https://www.youtube.com/user/ubleam</string>
+    <!-- Tutoriel -->
+    <string name="tutorial_skip_button">Skip</string>
+    <string name="tutorial_next_button">Next</string>
+    <string name="tutorial_start_button">Start to Bleam</string>
+    <!-- Tutoriel Page 1 -->
+    <string name="tutorial_page1_title">What is the Bleam?</string>
+    <string name="tutorial_page1_summary">New generation of 3D smart tag with high performance of scan, easy-to-use and customizable.</string>
+    <!-- Tutoriel Page 2 -->
+    <string name="tutorial_page2_title">Scan the Bleam</string>
+    <string name="tutorial_page2_summary">Open Ubleam app to scan the Bleam and access to many services in augmented reality</string>
+    <!-- Tutoriel Page 3 -->
+    <string name="tutorial_page3_title">Augment things</string>
+    <string name="tutorial_page3_summary">Use augmented reality to increase your product value: documentation, share, video tutorial, purchase, support, settings, and more.</string>
+    <!-- Tutoriel Page 4 -->
+    <string name="tutorial_page4_title">Discover new uses cases</string>
+    <string name="tutorial_page4_summary">Access from our mobile app to many informations about your things</string>
+    <!-- Pairing -->
+    <string name="pairing_title">Pairing</string>
+    <string name="pairing_list_empty">Empty list</string>
+    <string name="pairing_list_title">%d Things</string>
+    <string name="pairing_list_filter_text_view_hint">Filter on things…</string>
+    <string name="pairing_pair_alert_title">Pairing confirmation</string>
+    <string name="pairing_pair_alert_message">Do you really want to pair the thing %s?</string>
+    <string name="pairing_pair_toast_success">Thing %s paired!</string>
+
+</resources>
